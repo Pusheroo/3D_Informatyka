@@ -1,0 +1,18 @@
+Miłosz Jaśkowski 3D
+
+
++Dodawanie - dodawanie liczb 5+7=>12 "Hello"
+-Odejmowanie - odejmowanie liczb 10-5 => 3 
+*Mnożenie - mnożenie liczb 3*4 => 12
+/Dzielenie - dzielenie liczb 10/2 =>5
+%Reszta z dzielenia - obliczanie reszty z dzielenia 7 % 3 => 1
+//Dzielenie całkowite - dzielenie z zaokrągleniem w dół
+**Potęgowanie - potęgowanie liczb
+==Równość - wynik równości
+/=Nierówność - wynik nierówności
+>Większe niż - liczba większa niż
+<Mniejsze niż - liczba mniejsza niż
+>=Większe bądź równe - liczby większe bądź równe
+<=Mniejsze bądź równe - liczby mniejsze bądź równe
+is - Operator identyczności 
+in - operator sekwencji
